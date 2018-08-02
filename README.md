@@ -8,5 +8,12 @@
 
 *Phishlets are new site configs. They are plain-text ruleset files, in YAML format, which are fed into the Evilginx engine*
 
+### You can pull the image using the below command
+
+```
+
+docker pull vishnunair/docker-evilginx2
+
+```
 
 For more info: Check this [link](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/)

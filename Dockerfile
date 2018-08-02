@@ -10,6 +10,3 @@ ADD . /go/
 RUN ./bin/evilginx2 -p ./phishlets/
 
 CMD [ "tail", "-F", "-n0", "/etc/hosts"  ]
-
-
-
